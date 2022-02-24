@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang='fr'>
+<html lang='f'>
 <head>
 <meta charset='utf-8'>
 <title>Menu Agent</title>
